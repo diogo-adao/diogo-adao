@@ -16,6 +16,7 @@
 <div align="center">
 
 ![.](https://github-readme-stats.vercel.app/api?username=diogo-adao&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-adao)]
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
